@@ -1,0 +1,24 @@
+{
+    "Recipes": [
+        {
+            "name": "Instant Pot Ribs",
+            "ingredients": [
+                {
+                    "quantity": "1",
+                    "name": " beef roast",
+                    "type": "Meat"
+                }
+            ]
+        },
+        {
+            "name": "Beef Green Bean Stew",
+            "ingredients": [
+                {
+                    "quantity": "16oz",
+                    "name": "green beans",
+                    "type": "Vegetable"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 1rem 0.5rem;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 1vw;
+  border-radius: 5%;
+}
+
+a:hover {
+  background-color: #c6c6c6;
+  transition: all 0.5s ease-in;
+}
+
+nav {
+  width: 100vw;
+  background-color: cadetblue;
+}
