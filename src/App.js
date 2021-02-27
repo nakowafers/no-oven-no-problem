@@ -19,9 +19,9 @@ function App() {
           Learn React
         </a>
         <div class="rw-words rw-words-1">
-          <span>steuern.</span>
-          <span>erkennen.</span>
-          <span>dogs</span>
+          <span>cats 😺</span>
+          <span>squirrels 🧑‍💻</span>
+          <span>dogs 🔥</span>
         </div>
         <Recipe />
         <Recipe />
